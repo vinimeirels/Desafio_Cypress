@@ -3,7 +3,7 @@ Esse projeto é o desafio da etapa 3 do programa de estágio da empresa A Neopro
 
 # Instalação:
 
-Nodejs
+Nodejs,
 Cypress
 
 # Como Usar:
